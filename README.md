@@ -1,2 +1,2 @@
 # git-bash
-https://your-github-account.github.io/rsschool-cv/cv
+https://lambarzol.github.io/rsschool-cv/cv
